@@ -1,0 +1,3 @@
+setup harpoon style navigation for panes or windows
+setup better fzf supported session creation
+setup floating pane and easier pane movements
