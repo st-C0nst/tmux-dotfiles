@@ -1,4 +1,6 @@
 setup harpoon style navigation for panes or windows
 setup floating pane
+- Set up pane to be toggle and super easy to open
+- Rather than a floating terminal, cant we just swap to a full screen pane or something?
 split config up into smaller files
 make it pretty
