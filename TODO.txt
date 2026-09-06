@@ -2,10 +2,9 @@ setup harpoon style navigation for panes or windows
 setup better fzf supported session creation
 set up moving terminals
 fzf search for panes, windows etc
-rename panes and windowns
+fix bug for unnaming panes, also make it so if name is not set, we show nothing (something more minimal)
 better pane, window and session management ui, like zellij
 move panes and windows for harpoon style movement
-setup floating pane and easier pane movements
+setup floating pane
 setup prettier status line
 rebind for easier window and pane switching (homerow ideally)
-- I wish I could enter a toggleable prefix mode (not done, notification not working in status bar)
