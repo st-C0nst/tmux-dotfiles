@@ -1,8 +1,6 @@
 setup harpoon style navigation for panes or windows
 setup better fzf supported session creation
-set up moving terminals
 fzf search for panes, windows etc
-fix bug for unnaming panes, also make it so if name is not set, we show nothing (something more minimal)
 better pane, window and session management ui, like zellij
 move panes and windows for harpoon style movement
 setup floating pane
