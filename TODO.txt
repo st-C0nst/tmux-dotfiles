@@ -1,8 +1,4 @@
 setup harpoon style navigation for panes or windows
-setup better fzf supported session creation
-fzf search for panes, windows etc
-better pane, window and session management ui, like zellij
-move panes and windows for harpoon style movement
 setup floating pane
-setup prettier status line
-rebind for easier window and pane switching (homerow ideally)
+split config up into smaller files
+make it pretty
