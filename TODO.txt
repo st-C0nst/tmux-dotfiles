@@ -1,3 +1,6 @@
 setup harpoon style navigation for panes or windows
 setup better fzf supported session creation
 setup floating pane and easier pane movements
+setup prettier status line
+set up moving terminals
+rebind for easier window and pane switching (homerow ideally)
